@@ -3,4 +3,8 @@
 
 3) Layout images
 
-  ![](https://raw.githubusercontent.com/mobink09/hong-kong-university-bootstrap-ass-1/master/img/assignment%201.png)
+  !["Full screen image"](https://raw.githubusercontent.com/mobink09/hong-kong-university-bootstrap-ass-1/master/img/assignment%201.png)
+
+4) Mobile responsive
+
+!["Mobile View"](https://raw.githubusercontent.com/mobink09/hong-kong-university-bootstrap-ass-1/master/img/assignment%201%20extra%20small.png)
