@@ -5,14 +5,16 @@
     color: floralwhite;
 }
 
-.footer{
+.footer {
     background-color: #d1c4e9;
     margin: 0px auto;
     padding: 20px 0 20px 0px;
 }
+
 #right {
     float: right;
 }
-p{
+
+p {
     text-align: justify;
 }
